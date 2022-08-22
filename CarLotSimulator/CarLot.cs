@@ -13,7 +13,7 @@ namespace CarLotSimulator
 
         public List<Car> Cars = new List<Car>();
 
-        public static int numberOfCars = 1;
+        public static int numberOfCars = 0;
         // Console.WriteLine($"Cars created = {CarLot.numberOfCars}");
 
     }
